@@ -7,3 +7,5 @@ Install via Ukelele (view -> show organizer, select folder w/ layout, move file 
 
 Note: You may have to log out and back in to your computer in order for the layout to appear in Settings
 
+Layout diagram (courtesy of DreymaR):
+![Layout Diagram](Rulemak_ANS_EPKL.png)
